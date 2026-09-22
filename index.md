@@ -1,4 +1,4 @@
-# 3rd International Workshop on Methodological Issues with Empirical Studies in Software Engineering (WSESE2026) <br> In conjunction with the International Conference on Software Engineering (ICSE 2026), Rio de Janeiro, Brazil
+# 4th International Workshop on Methodological Issues with Empirical Studies in Software Engineering (WSESE2027) <br> In conjunction with the International Conference on Software Engineering (ICSE 2027), Dublin, Ireland
 
 # Call for Papers
 
@@ -27,22 +27,24 @@ Papers must describe original work that has not been submitted to or presented a
 
 ## Submission information
 
-Submissions will be made via hotcrp. Papers must be formatted according to ICSE 2026 guidelines (submission process: https://conf.researchr.org/track/icse-2026/icse-2026-research-track). The official publication date of the workshop proceedings is the date the proceedings are made available by ACM. This date may be up to two weeks prior to the first day of ICSE 2026. The official publication date affects the deadline for any patent filings related to published work.
+Submissions will be made via hotcrp. Papers must be formatted according to ICSE 2027 guidelines (submission process: https://conf.researchr.org/track/icse-2027/icse-2027-research-track). The official publication date of the workshop proceedings is the date the proceedings are made available by ACM. This date may be up to two weeks prior to the first day of ICSE 2027. The official publication date affects the deadline for any patent filings related to published work.
 
 ## Keynote speaker
 Keynote by (TBC). 
 
 
 ## Important Dates
-- Submission of papers:	October 20, 2025
-- Notification:	November 24, 2025
-- Camera-ready:	January 26, 2026
-- Workshop:	April XX, 2026
+- Submission of papers:	November 27, 2026
+- Notification:	December 11, 2026
+- Camera-ready:	January 29, 2027
+- Workshop:	April 26, 2027
 
 ## Workshop Organization
 - Sira Vegas, Universidad Politécnica de Madrid, Spain
-- Silvia Abrahão, Universitat Politècnica de València, Spain
-- Patricia Lago, Vrije Univ. Amsterdam, The Netherlands
+- Andreas Jedlitschka, Fraunhofer IESE, Germany
 
 ## Proceedings Chair
-Marta Fernández-Diego, Universitat Politècnica de València, Spain
+Iflaah Salman, University of Glasgow, UK
+
+## Web Chair
+Francy Rodríguez, Universidad Politécnica de Madrid, Spain
